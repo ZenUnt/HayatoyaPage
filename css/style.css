@@ -1,9 +1,8 @@
 .cover {
-  background: rgb(170, 230, 245);
-  background-size: cover;
+  background-image: url(../img/b105.gif);
 }
 .title_shadow {
-  text-shadow: 1px 2px 3px #808080;
+  text-shadow: 2px 2px 3px #808080;
 }
 .lh-mid {
   line-height: 2.5;
@@ -14,5 +13,5 @@ a {
 }
 a:hover {
   text-decoration: none;
-  color: #FFF;
+  color: #ddd;
 }
